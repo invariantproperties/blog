@@ -1,0 +1,3 @@
+[submodule "invariantproperties/themes/binario"]
+	path = invariantproperties/themes/binario
+	url = https://github.com/vimux/binario
