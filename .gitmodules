@@ -7,3 +7,7 @@
 [submodule "invariantproperties/themes/hugo-flex"]
 	path = invariantproperties/themes/hugo-flex
 	url = https://github.com/ldeso/hugo-flex.git
+[submodule "invariantproperties/public"]
+	path = invariantproperties/public
+	url = git@github.com:invariantproperties/invariantproperties.github.io.git
+	branch = main
