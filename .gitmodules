@@ -1,3 +1,9 @@
 [submodule "invariantproperties/themes/binario"]
 	path = invariantproperties/themes/binario
 	url = https://github.com/vimux/binario
+[submodule "invariantproperties/themes/hugo-whisper-theme"]
+	path = invariantproperties/themes/hugo-whisper-theme
+	url = https://github.com/zerostaticthemes/hugo-whisper-theme.git
+[submodule "invariantproperties/themes/hugo-flex"]
+	path = invariantproperties/themes/hugo-flex
+	url = https://github.com/ldeso/hugo-flex.git
