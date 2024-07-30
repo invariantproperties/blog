@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/first.md",
+                "file": "content/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/first.md",
+                "file": "content/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/first.md",
+                "file": "content/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/first.md"
+                "file": "content/about.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,21 +145,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66d7fd5f6ba04b9a",
+  "active": "d80ccb35a821a8a4",
   "lastOpenFiles": [
-    "hugo.toml~",
-    "archetypes/default.md",
-    "archetypes",
-    "data",
-    "static",
-    "content/posts/main.md",
+    "public/CNAME",
+    "public/posts/hugo-2024-07-29/index.html",
+    "public/posts/hugo-2024-07-29",
+    "public/css/syntax.min.065df42d2be658bb8e0720297aadf469355a5ffaf863b00e3cce0627dd106ca0.css",
+    "content/posts/hugo-2024-07-29.md",
+    "content/about.md",
     "content/posts/first.md",
-    "content/posts",
-    "content",
-    "themes/hugo-flex/theme.toml",
-    "themes/hugo-flex/layouts/_default/_markup/render-heading.html",
-    "themes/hugo-flex/layouts/_default/_markup/render-codeblock.html",
-    "themes/hugo-flex/layouts/shortcodes/soundcloud.html",
+    "public/feed.xml",
+    "public/posts/feed.xml",
+    "public/xml/base.min.xml",
+    "public/xml",
+    "public/sitemap.xml",
+    "public/tags/index.html",
+    "public/tags/feed.xml",
+    "public/README.md",
+    "archetypes/default.md",
+    "content/posts/main.md",
     "themes/hugo-flex/images/tn.png",
     "themes/hugo-flex/images/screenshot.png",
     "themes/hugo-flex/README.md",
@@ -189,9 +192,6 @@
     "themes/hugo-whisper-theme/exampleSite/content/docs/specimen/index.md",
     "themes/hugo-whisper-theme/exampleSite/content/docs/install-theme/index.md",
     "themes/hugo-whisper-theme/exampleSite/content/docs/install-hugo/index.md",
-    "themes/hugo-whisper-theme/exampleSite/content/docs/configure/index.md",
-    "themes/hugo-whisper-theme/exampleSite/content/docs/example/index.md",
-    "themes/hugo-whisper-theme/exampleSite/content/docs/_index.md",
-    "themes/hugo-whisper-theme/exampleSite/archetypes/docs.md"
+    "themes/hugo-whisper-theme/exampleSite/content/docs/configure/index.md"
   ]
 }
